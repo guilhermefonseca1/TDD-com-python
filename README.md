@@ -10,7 +10,7 @@ Funções a serem implementadas
 
     * Caso o arquivo não exista, levantar uma exceção;
 
-    * Se o arquivo existir, carregá-lo em uma lista e retorná-lo como uma lista de dicionários onde cada dicionário é um objeto json do arquivo.
+    * Se o arquivo existir, carregá-lo em uma lista e retorná-lo como uma lista de dicionários onde cada dicionário é um objeto json do arquivo(fazer um mock).
 
 2 - Ordenar os pokemons por "national_number"
 
